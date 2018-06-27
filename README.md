@@ -1,7 +1,7 @@
 # 맛타리
 맛소금의 Tizen IoT, Raspberry Pi 이야기
 
-직접 만들어보고 경험담과 노하우를 공유하려 합니다. 소스는 [github/mtr](https://github.com/msaltnet/mtr) 에 올려두고, 글은 일기 쓰듯이 편하게 작성하겠습니다. 존댓말은 이 페이지가 마지막 입니다.ㅋ
+타이젠과 라즈베리파이, 아두이노를 이용해서 IoT 기기를 만들어 보려고 합니다. 직접 만들어보고 경험담과 노하우를 공유하려 합니다. 소스는 [github/mtr](https://github.com/msaltnet/mtr) 에 올려두고, 글은 일기 쓰듯이 편하게 작성하겠습니다. 존댓말은 이 페이지가 마지막 입니다.ㅋ
 
 ## [맛소금](https://www.facebook.com/msalt.net)
 지구에 살고 있는 개발자 인간입니다. [블로그](http://blog.msalt.net/)도 있고 [개인 웹페이지](http://msalt.net/)도 있지만, 이번 일은 책처럼 만들어서 공개하면 좋을것 같아서 [gitbook](https://mtr.msalt.net)을 사용해 보게 되었습니다.
